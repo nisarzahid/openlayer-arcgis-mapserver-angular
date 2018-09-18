@@ -1,4 +1,10 @@
-# OpenlayerArcgisMapserverAngular
+# OpenlayerArcgisMapserverAngular6
+
+
+## Angular6 OpenLayers - How to Use OL package for OpenLayer to Use Image ArcGIS MapServer in Angular6 project 
+
+### This shows how to use a dynamic ArcGIS REST MapService in Angular6. This source type supports Map and Image Services. For dyamic ArcGIS services.
+![Screenshot](src/assets/screen.png?raw=true "Title")
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
 
